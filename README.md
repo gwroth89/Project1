@@ -15,5 +15,8 @@ Was there an impact on rates across differing types of crime (Property vs. Viole
 
 Is there a difference in crime by legalization status (fully legal, mixed/decriminalized/medical, not legal)?
 
+Is there a relationship between population growth and legalization status?
+    do states with less population growth have more restrictive cannabis laws (& vice versa)?
+
 
 Limitations of the data set - relies on PDs to report who may or may not report to the FBI.
