@@ -8,8 +8,11 @@ We plan to use the FBI Crime Database which is callable via API.
 Census may be needed to supplement population data
 
 
-Was there an impact on rates across differing types of crime (DUI/Property/Violent)?
-Was there a change in crime rates prior to legalization vs post legalization?
+Was there a change in crime rates prior to legalization vs post legalization in states that legalized?
+    Were crime rates stable across states that have maintained illegality?
+
+Was there an impact on rates across differing types of crime (Property vs. Violent)?
+
 Is there a difference in crime by legalization status (fully legal, mixed/decriminalized/medical, not legal)?
 
 
