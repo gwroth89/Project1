@@ -9,11 +9,11 @@ Census may be needed to supplement population data
 
 
 Was there a change in crime rates prior to legalization vs post legalization in states that legalized?
-    Were crime rates stable across states that have maintained illegality?
+    Were crime rates stable across states that have maintained illegality? - Greg / Will
 
-Was there an impact on rates across differing types of crime (Property vs. Violent)?
+Was there an impact on rates across differing types of crime (Property vs. Violent)? - Taylor/Art
 
-Is there a difference in crime by legalization status (fully legal, mixed/decriminalized/medical, not legal)?
+Is there a difference in crime by legalization status (fully legal, mixed/decriminalized/medical, not legal)? - Lindsey
 
 Is there a relationship between population growth and legalization status?
     do states with less population growth have more restrictive cannabis laws (& vice versa)?
