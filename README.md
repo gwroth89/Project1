@@ -8,9 +8,15 @@ We plan to use the FBI Crime Database which is callable via API.
 Census may be needed to supplement population data
 
 
-Was there an impact on rates across differing types of crime (DUI/Property/Violent)?
-Was there a change in crime rates prior to legalization vs post legalization?
-Is there a difference in crime by legalization status (fully legal, mixed/decriminalized/medical, not legal)?
+Was there a change in crime rates prior to legalization vs post legalization in states that legalized?
+    Were crime rates stable across states that have maintained illegality? - Greg / Will
+
+Was there an impact on rates across differing types of crime (Property vs. Violent)? - Taylor/Art
+
+Is there a difference in crime by legalization status (fully legal, mixed/decriminalized/medical, not legal)? - Lindsey
+
+Is there a relationship between population growth and legalization status?
+    do states with less population growth have more restrictive cannabis laws (& vice versa)?
 
 
 Limitations of the data set - relies on PDs to report who may or may not report to the FBI.
