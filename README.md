@@ -1,22 +1,24 @@
-# Project1
+Marijuana and Crime
 
-We  want to analyze the impact of Marijuana legalization on crime rates in states that have
-legalized in comparison to states that have not. 
+The aim of this project is to discover whether or not there is a correlation between the usage of marijuana and crime 
 
-We plan to use the FBI Crime Database which is callable via API.
-    Offense Data & Arrest Data controllers within the API
-Census may be needed to supplement population data
+as well as not being a project about Covid.  
 
+Within this, our group is focusing on whether the status of marijuana (fully illegal, fully legal, and decriminalized/medicinal only) 
 
-Was there a change in crime rates prior to legalization vs post legalization in states that legalized?
-    Were crime rates stable across states that have maintained illegality? - Greg / Will
+has an impact on violent and non-violent crime and whether or not marijuana’s status is indicative of a rise of crime or 
 
-Was there an impact on rates across differing types of crime (Property vs. Violent)? - Taylor/Art
-
-Is there a difference in crime by legalization status (fully legal, mixed/decriminalized/medical, not legal)? - Lindsey
-
-Is there a relationship between population growth and legalization status?
-    do states with less population growth have more restrictive cannabis laws (& vice versa)?
+if states that legalize follow the national trend in regards to crime rate.
 
 
-Limitations of the data set - relies on PDs to report who may or may not report to the FBI.
+Databases we used included the FBI Crime Database which is callable via API as well as the Offense Data & Arrest Data controllers within the API Census.
+
+Questions we asked were whether or not there was a change in crime when legalization occured, whether or non there was an impact on type of crime being committed,
+
+and was there a difference in crime by legalization status.
+
+In regards to limitations, we found that the big factors limiting the scope of this revolved areound it being optional to report crime statistics until 1979,
+
+the lack of coordination between local police departments and the FBI, and the fact that marijuana has only been legalized in any American jurisdiction since 2012.
+
+Those who worked on this project are Greg Roth, Lindsey Wolterstorff, Art Rogers, Taylor Marino, and Will Dickerson.
